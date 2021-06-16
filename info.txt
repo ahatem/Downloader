@@ -1,4 +1,4 @@
 version=1.1.5
 updateLink=https://www.facebook.com/prog.ahmedhatem/
-directUpdateLink=https://download1336.mediafire.com/05r9kzqbwzbg/t1viva8rhuj00ix/FreeYoutubeDownloaderUpdate.rar
-updateNotes=New Update
+directUpdateLink=https://download943.mediafire.com/ybeg79og51sg/096f60mrzfeqcni/FreeYoutubeDownloaderUpdate.zip
+updateNotes=New Update,Fixing Some Problems :)
