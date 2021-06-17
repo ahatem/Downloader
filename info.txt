@@ -1,4 +1,4 @@
 version=1.1.5
 updateLink=https://www.facebook.com/prog./
 directUpdateLink=https://download943.mediafire.com/ybeg79og51sg/096f60mrzfeqcni/FreeYoutubeDownloaderUpdate.zip
-updateNotes=Fixing some problems when program in background
+updateNotes=Fixing some problems
