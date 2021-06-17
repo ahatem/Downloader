@@ -1,4 +1,4 @@
 version=1.1.5
 updateLink=https://www.facebook.com/prog.ahmedhatem/
 directUpdateLink=https://download943.mediafire.com/ybeg79og51sg/096f60mrzfeqcni/FreeYoutubeDownloaderUpdate.zip
-updateNotes=<html><font color=\'green\'>It will Automaticly download and install</font><br></html>, Fixing Some Problems :)
+updateNotes=<html><font color=\'green\'>TEST</font><br></html>, Fixing Some Problems :)
